@@ -14,10 +14,10 @@ public class App
         Scanner sc = new Scanner(System.in);
 
         //reading numbers as strings
-        System.out.println("What is the first number? ");
+        System.out.print("What is the first number? ");
         String numString1 = sc.next();
 
-        System.out.println("What is the second number? ");
+        System.out.print("What is the second number? ");
         String numString2 = sc.next();
 
         //converting the strings to ints
